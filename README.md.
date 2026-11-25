@@ -1,0 +1,24 @@
+# Fractional Knapsack Using Greedy Algorithm
+
+## Project Description
+Implementation of the Fractional Knapsack problem using the Greedy Algorithm in C.
+
+## Team Members / Authors
+1. Ram Sai
+2. Ram Charan
+3. Avinash
+4.p.jaya sai vardhan
+## Programming Language
+C
+
+## Algorithm
+Greedy Algorithm
+
+## Time Complexity
+O(n log n)
+
+## Applications
+- Resource allocation
+- Cargo loading
+- Budget optimization
+-
